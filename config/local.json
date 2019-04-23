@@ -1,0 +1,7 @@
+{
+    "mongodb":{
+        "host": "localhost:27017",
+        "db": "ang-7"
+    },
+    "port": 3000
+}
